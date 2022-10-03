@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/31875341-c4a4-462b-b092-b3b7c07dafb6/AppServices/subscriptions/31875341-c4a4-462b-b092-b3b7c07dafb6/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/MyFirstAzurePokemonApi",
+    "appService.deploySubpath": "."
+}
